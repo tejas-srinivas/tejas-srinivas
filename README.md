@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Vehicle Booking Website](https://github.com/tejas-srinivas/2-WheelerSalesDB)
 
-- 🌱 I’m currently learning **PHP, JavaScript, React Native**
+- 🌱 I’m currently learning **PHP, JavaScript, React, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejas-srinivas](https://github.com/tejas-srinivas)
 
