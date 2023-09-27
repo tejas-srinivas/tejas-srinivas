@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **stejas2002@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/tejassrinivas8002002b5a1ab](www.linkedin.com/in/tejassrinivas8002002b5a1ab)
+- 📄 Know about my experiences [www.linkedin.com/in/tejassrinivas07](www.linkedin.com/in/tejassrinivas07)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
