@@ -4,7 +4,8 @@
 [![](https://visitcount.itsvg.in/api?id=tejas-srinivas&icon=2&color=7)](https://visitcount.itsvg.in)
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
-# 💫 About Me:<br>
+# 💫 About Me:
+<br>
 🔭 I’m currently working on Automation of Hydroponic Farming using IoT<br>
 🌱 I’m currently learning React, Node, MongoDB, Python, MySQL<br>
 💬 Ask me about PHP, JS, HTML, CSS, React, MySQL, MongoDB<br>
