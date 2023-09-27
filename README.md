@@ -2,6 +2,9 @@
 <h3 align="center">A Passionate Web developer | Graphics Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 
+---
+[![](https://visitcount.itsvg.in/api?id=tejas-srinivas&icon=2&color=7)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 <br>🔭 I’m currently working on Automation of Hydroponic Farming using IoT<br>
 🌱 I’m currently learning React, Node, MongoDB, Python, MySQL<br>
@@ -9,9 +12,6 @@
 👨‍💻 All of my projects are available at => https://github.com/tejas-srinivas<br>
 📫 How to reach me => stejas2002@gmail.com<br>
 📄 Know about my experiences => www.linkedin.com/in/tejassrinivas07
-
----
-[![](https://visitcount.itsvg.in/api?id=tejas-srinivas&icon=2&color=7)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejassrinivas07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TejasSrinivas11) 
