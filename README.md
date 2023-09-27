@@ -10,6 +10,8 @@
 📫 How to reach me => stejas2002@gmail.com<br>
 📄 Know about my experiences => www.linkedin.com/in/tejassrinivas07
 
+---
+[![](https://visitcount.itsvg.in/api?id=tejas-srinivas&icon=2&color=7)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejassrinivas07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TejasSrinivas11) 
@@ -24,10 +26,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=tejas-srinivas&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-srinivas&show_icons=true&locale=en&layout=compact" alt="tejas-srinivas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-srinivas&show_icons=true&locale=en" alt="tejas-srinivas" /></p>
