@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Web developer | Graphics Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 
-<br>
 [![](https://visitcount.itsvg.in/api?id=tejas-srinivas&icon=2&color=7)](https://visitcount.itsvg.in)
 <br>
 
