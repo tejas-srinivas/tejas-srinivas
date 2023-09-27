@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tejas Srinivas</h1>
-<h3 align="center">A passionate web developer | Graphics Designer | Java Programmer from India</h3>
+<h3 align="center">A Passionate Web developer | Graphics Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-srinivas&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-srinivas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tejassrinivas5" target="blank"><img src="https://img.shields.io/twitter/follow/tejassrinivas5?logo=twitter&style=for-the-badge" alt="tejassrinivas5" /></a> </p>
 
-- 🔭 I’m currently working on [Vehicle Booking Website](https://github.com/tejas-srinivas/2-WheelerSalesDB)
+- 🔭 I have implemented an [Vehicle Booking Website](https://github.com/tejas-srinivas/2-WheelerSalesDB)
 
 - 🌱 I’m currently learning **PHP, JavaScript, React, NodeJS**
 
