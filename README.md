@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Web developer | Graphics Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 
----
+<br>
+-----------------------------------------
 [![](https://visitcount.itsvg.in/api?id=tejas-srinivas&icon=2&color=7)](https://visitcount.itsvg.in)
 <br>
 
@@ -12,7 +13,7 @@
 💬 Ask me about PHP, JS, HTML, CSS, React, MySQL, MongoDB<br>
 👨‍💻 All of my projects are available at => https://github.com/tejas-srinivas<br>
 📫 How to reach me => stejas2002@gmail.com<br>
-📄 Know about my experiences => www.linkedin.com/in/tejassrinivas07
+📄 Know about my experiences => www.linkedin.com/in/tejassrinivas07<br>
 Visit My Portfolio => [Tejas's Portfolio](https://portfolio-using-react-js.onrender.com/)
 
 ## 🌐 Socials:
