@@ -4,6 +4,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tejas-srinivas&icon=2&color=7)](https://visitcount.itsvg.in)
+<br>
 
 # 💫 About Me:
 <br>🔭 I’m currently working on Automation of Hydroponic Farming using IoT<br>
