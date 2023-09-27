@@ -12,7 +12,7 @@
 👨‍💻 Projects are available at => https://github.com/tejas-srinivas<br>
 📫 How to reach me => stejas2002@gmail.com<br>
 📄 My experiences => www.linkedin.com/in/tejassrinivas07<br>
-Visit My Portfolio => [Tejas's Portfolio](https://portfolio-using-react-js.onrender.com/)
+Visit My Portfolio => https://portfolio-using-react-js.onrender.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejassrinivas07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TejasSrinivas11) 
